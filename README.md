@@ -1,2 +1,2 @@
 # notebooks
-Contains Notebooks for my blogs
+Contains Notebooks used for my blogs [here](https://jarvislabs.ai/blogs/)
